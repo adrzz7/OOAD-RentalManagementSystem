@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FindRange
+comment1.params=pricemax\ pricemin
+comment1.target=FindRange(int,\ int)
+numComments=2

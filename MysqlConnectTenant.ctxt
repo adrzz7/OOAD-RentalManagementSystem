@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MysqlConnectTenant
+comment1.params=
+comment1.target=MysqlConnectTenant()
+comment2.params=username\ password
+comment2.target=void\ loginData(java.lang.String,\ java.lang.String)
+comment2.text=Login\ Tenant\ **********************
+comment3.params=tusername\ tpassword\ tname\ temail\ tphone\ taddress
+comment3.target=void\ insertData(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.text=Register\ Tenant\ **********************
+comment4.params=username
+comment4.target=java.lang.String[]\ findFilm(java.lang.String)
+comment4.text=Find\ Tenant\ Profile\ **********************
+comment5.params=tusername\ tpassword\ tname\ temail\ tphone\ taddress
+comment5.target=void\ updateProfile(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.text=Edit/Update\ Tenant\ Profile\ **********************
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

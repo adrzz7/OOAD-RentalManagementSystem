@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MysqlConnectAdmin
+comment1.params=
+comment1.target=MysqlConnectAdmin()
+comment2.params=username\ password
+comment2.target=void\ loginData(java.lang.String,\ java.lang.String)
+comment3.params=propertyadminid\ ptype\ plocation\ psize\ prentrate\ pstatus\ pnoofroom\ pnoofbathroom\ pfacalities
+comment3.target=void\ insertData(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment4.params=id
+comment4.target=java.lang.String[]\ findFilm(int)
+comment5.params=propertyid\ propertyagentid\ ptype\ plocation\ psize\ prentrate\ pstatus\ pnoofroom\ pnoofbathroom\ pfacalities
+comment5.target=void\ updateProperty(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment6.params=username\ password\ adminname\ adminphonenum\ adminemail
+comment6.target=void\ RegisterUser(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=firstname\ lastname\ username\ password\ phonenum\ email\ roles
+comment7.target=void\ CreateUserAccount(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment8.params=id
+comment8.target=void\ DeleteProperty2(int)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

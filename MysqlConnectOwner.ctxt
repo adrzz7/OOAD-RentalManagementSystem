@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MysqlConnectOwner
+comment1.params=
+comment1.target=MysqlConnectOwner()
+comment2.params=propAdmin\ propAgent\ propOwner\ propType\ propLocation\ propSize\ propRentRate\ propStatus\ propNoOfRoom\ propNoOfBRoom\ propFacilities
+comment2.target=void\ addPropOwner(int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.text=add\ property\ owner**********************
+comment3.params=propID
+comment3.target=java.lang.String[]\ searchPropOwner(int)
+comment3.text=search\ property\ by\ id\ \ for\ update\ owner\ **********************
+comment4.params=propID\ propAdmin\ propAgent\ propOwner\ propType\ propLocation\ propSize\ propRentRate\ propStatus\ propNoOfRoom\ propNoOfBRoom\ propFacilities
+comment4.target=void\ updatePropertyOwner(int,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment4.text=update\ property\ owner\ **********************
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

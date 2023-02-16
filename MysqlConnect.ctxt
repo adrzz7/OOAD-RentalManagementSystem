@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MysqlConnect
+comment1.params=
+comment1.target=MysqlConnect()
+comment2.params=username\ password
+comment2.target=void\ loginData(java.lang.String,\ java.lang.String)
+comment2.text=Login\ Agent\ **********************
+comment3.params=propertyagentid\ ptype\ plocation\ psize\ prentrate\ pstatus\ pnoofroom\ pnoofbathroom\ pfacalities
+comment3.target=void\ insertData(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment3.text=Insert\ Property\ **********************
+comment4.params=propertyid\ propertyagentid\ ptype\ plocation\ psize\ prentrate\ pstatus\ pnoofroom\ pnoofbathroom\ pfacalities
+comment4.target=void\ updateProperty(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment4.text=Update\ Property\ **********************
+comment5.params=id
+comment5.target=java.lang.String[]\ findData(int)
+comment5.text=Find\ Data\ **********************
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
